@@ -9,9 +9,10 @@ I am a cryptocurrency enthusiast with 1 years experience in blockchain industry,
 ## **😊 About me**
 
 - 🔭 I'm currently working on my personal project
-- 🌱 I'm currently learning java, c++, reactjs, and front-end development
+- 🌱 I'm currently learning Java, C++, React-JS, and Front-End Development
 - ⚡ I'm excited to create open-source projects
-- 😄 I'm natively speak Indonesian, intermediate speak English, Arabic, and Japanese. 
+- 😄 I'm natively speak Indonesian 
+- 🧐 I'm intermediate to speak English, Arabic, and Japanese 
 - 📫 How to reach me: [@Isallkun](https://twitter.com/Isallkun)
 
   ![Snake animation](https://github.com/SantriInsyaf/SantriInsyaf/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
