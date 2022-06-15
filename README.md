@@ -1,16 +1,20 @@
-### Hi there 👋
+<!-- markdownlint-disable MD033 MD042-->
 
-<!--
-**SantriInsyaf/SantriInsyaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm **[Faishal Ananta Ridha](https://isallkun.my.id)**! 👋
 
-Here are some ideas to get you started:
+I am a cryptocurrency enthusiast with 1 years experience in blockchain industry, marketing management, analysis and trader. I also have expertise in basic programming language. Now, i am study at Universitas Yudharta Pasuruan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **😊 About me**
+
+- 🔭 I'm currently working on my personal project
+- 🌱 I'm currently learning java, c++, reactjs, and front-end development
+- ⚡ I'm excited to create open-source projects
+- 😄 I'm natively speak Indonesian, intermediate speak English, Arabic, and Japanese. 
+- 📫 How to reach me: [@Isallkun](https://twitter.com/Isallkun)
+
+  ![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  
+</div>
+
