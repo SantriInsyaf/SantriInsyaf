@@ -15,7 +15,7 @@ I am a cryptocurrency enthusiast with 1 years experience in blockchain industry,
 - 🧐 I'm intermediate to speak English, Arabic, and Japanese 
 - 📫 How to reach me: [@Isallkun](https://twitter.com/Isallkun)
 
-  ![Snake animation](https://github.com/SantriInsyaf/SantriInsyaf/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+  ![Snake animation](https://github.com/Isallkun/Isallkun/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
   
 </div>
 
