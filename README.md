@@ -6,7 +6,7 @@ I am a cryptocurrency enthusiast with 1 years experience in blockchain industry,
 
 ---
 
-## **😊 About me**
+## **😊 About Me**
 ![Profile views](https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen)
 
 - 🔭 I'm currently working on my personal project
@@ -24,3 +24,5 @@ I am a cryptocurrency enthusiast with 1 years experience in blockchain industry,
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true)](https://github.com/Isallkun)
 ![Snake animation](https://github.com/Isallkun/Isallkun/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+
+---
