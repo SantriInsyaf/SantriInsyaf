@@ -16,11 +16,11 @@ I am a cryptocurrency enthusiast with 1 years experience in blockchain industry,
 - 🧐 I'm intermediate to speak English, Arabic, and Japanese 
 - 📫 How to reach me: [@Isallkun](https://twitter.com/Isallkun)
 
+## **🧑‍💻 Most Used Language**
+
+![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&langs_count=6&layout=compact) 
+
 ## **🙇 Status**
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true)](https://github.com/Isallkun)
-
-## **🧑‍💻 Most Used Language**
-
-![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&langs_count=6&layout=compact)
 ![Snake animation](https://github.com/Isallkun/Isallkun/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
