@@ -2,7 +2,7 @@
 
 # Hi there, I'm **[Faishal Ananta Ridha](https://isallkun.my.id)**! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
 
-I am a cryptocurrency enthusiast with 1 years experience in blockchain industry, marketing management, analysis and trader. I also have expertise in basic programming language. Now, i am study at Universitas Yudharta Pasuruan.
+I am cryptocurrency enthusiast with 1 years experience in blockchain industry, marketing management, analysis and trader. I also have expertise in basic programming language. Now, i am study at Universitas Yudharta Pasuruan.
 
 ---
 
