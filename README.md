@@ -10,19 +10,20 @@ I am cryptocurrency enthusiast with 1 years experience in blockchain industry, m
 ![Profile views](https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen)
 
 - 🔭 I'm currently working on my personal project
-- 🌱 I'm currently learning Java, C++, React-JS, and Front-End Development
+- 🌱 I'm currently learning Java, C++, React-JS, Rust and Front-End Development
 - ⚡ I'm excited to create open-source projects
 - 😄 I'm natively speak Indonesian 
 - 🧐 I'm intermediate to speak English, Arabic, and Japanese 
 - 📫 How to reach me: [@Isallkun](https://twitter.com/Isallkun)
 
-## **🧑‍💻 Most Used Language**
+## **🧑‍💻 Stats**
+<a href="https://github.com/Isallkun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true"/>
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&langs_count=6&layout=compact"/>
+</a>
 
-![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&langs_count=6&layout=compact) 
-
-## **🙇 Status**
-
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true)](https://github.com/Isallkun)
 ![Snake animation](https://github.com/Isallkun/Isallkun/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ---
