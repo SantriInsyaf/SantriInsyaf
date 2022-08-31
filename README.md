@@ -17,13 +17,9 @@ I am cryptocurrency enthusiast with 1 years experience in blockchain industry, m
 - 📫 How to reach me: [@Isallkun](https://twitter.com/Isallkun)
 
 ## **🧑‍💻 Stats**
-<a href="https://github.com/Isallkun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true"/>
-</a>
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&langs_count=6&layout=compact"/>
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Isallkun github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![Snake animation](https://github.com/Isallkun/Isallkun/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
