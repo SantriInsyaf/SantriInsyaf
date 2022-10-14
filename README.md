@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD042-->
 
 # Hi there, I'm **[Faishal Ananta Ridha](https://isallkun.my.id)**! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
-
+[![@isallkun's Holopin board](https://holopin.me/isallkun)](https://holopin.io/@isallkun)
 I am cryptocurrency enthusiast with 1 years experience in blockchain industry, marketing management, analysis and trader. I also have expertise in basic programming language. Now, i am study at Universitas Yudharta Pasuruan.
 
 ---
