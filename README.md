@@ -21,6 +21,6 @@ I am cryptocurrency enthusiast with 1 years experience in blockchain industry, m
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Isallkun&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Isallkun github stats" /></a> | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isallkun&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Snake animation](https://github.com/Isallkun/Isallkun/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![readmebox animation](https://raw.githubusercontent.com/Isallkun/Isallkun/main/readmebox.svg)
 
 ---
