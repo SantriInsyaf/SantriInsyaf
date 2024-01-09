@@ -10,7 +10,7 @@ I am cryptocurrency enthusiast with 1 years experience in blockchain industry, m
 ![Profile views](https://komarev.com/ghpvc/?username=Isallkun&color=brightgreen)
 
 - 🔭 I'm currently working on my personal project
-- 🌱 I'm currently learning Java, C++, React-JS, Rust and Front-End Development
+- 🌱 I'm currently learning Java, C++, React-JS, NodeJS, PHP, Rust and Web Development
 - ⚡ I'm excited to create open-source projects
 - 😄 I'm natively speak Indonesian 
 - 🧐 I'm intermediate to speak English, Arabic, and Japanese 
